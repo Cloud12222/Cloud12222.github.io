@@ -511,6 +511,25 @@ a:hover, a:active, a:focus {
   color: #ffffff;
 }
 
+#contact .checkboxes label {
+  display: inline-block;
+  padding-right: 20px;
+  white-space: nowrap;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 14px;
+}
+#contact .checkboxes input {
+  vertical-align: middle;
+  margin-top: 10px;
+  margin-bottom: 14px;
+}
+#contact .checkboxes label span {
+  vertical-align: middle;
+  margin-top: 10px;
+  margin-bottom: 14px;
+}
+
 #contact input {
   height: 55px;
 }
